@@ -28,6 +28,7 @@
   "tabs": [
     {
       "name": "API Reference",
+      "openapi": "https://api.tryjournalist.com/swagger.json",
       "url": "api-reference"
     }
   ],
